@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wasimthe
-- 👀 I’m interested in Developing Software..
+- 👀 I’m interested in Web Development and Outings!
 - 🌱 I’m currently learning python and django for web-development
-- 💞️ I’m looking to collaborate ...
+- 💞️ I’m looking to collaborate on projects on Django.
 - 📫 How to reach me wasimkhan77383@gmail.com 
 
 <!---
